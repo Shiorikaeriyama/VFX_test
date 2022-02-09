@@ -612,3 +612,43 @@ Received Import Request.
 Start importing Assets/test_VFX_MagicCircle/VFX_MC.vfx using Guid(67691e4a4fc6648b298e3bc7ab488226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '434ea2583a2ab58f98a5ba632df77bf5') in 0.006543 seconds 
   Import took 0.012777 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 3136.210089 seconds.
+  path: Assets/test_VFX_MagicCircle/VFX_MC.vfx
+  artifactKey: Guid(67691e4a4fc6648b298e3bc7ab488226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test_VFX_MagicCircle/VFX_MC.vfx using Guid(67691e4a4fc6648b298e3bc7ab488226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01862a6ad559d7d2138de3a33421b1f8') in 0.007238 seconds 
+  Import took 0.013405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.328903 seconds.
+  path: Assets/test_VFX_MagicCircle/VFX_MC.vfx
+  artifactKey: Guid(67691e4a4fc6648b298e3bc7ab488226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test_VFX_MagicCircle/VFX_MC.vfx using Guid(67691e4a4fc6648b298e3bc7ab488226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3deb21957c99be3b64e07f9f2ae321ee') in 0.006129 seconds 
+  Import took 0.014294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.199735 seconds.
+  path: Assets/test_VFX_MagicCircle/VFX_MC.vfx
+  artifactKey: Guid(67691e4a4fc6648b298e3bc7ab488226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test_VFX_MagicCircle/VFX_MC.vfx using Guid(67691e4a4fc6648b298e3bc7ab488226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cd17d93094824c1b705c56d52f2cc31') in 0.005419 seconds 
+  Import took 0.011941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.744148 seconds.
+  path: Assets/test_VFX_MagicCircle/VFX_MC.vfx
+  artifactKey: Guid(67691e4a4fc6648b298e3bc7ab488226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test_VFX_MagicCircle/VFX_MC.vfx using Guid(67691e4a4fc6648b298e3bc7ab488226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f77227567fb6051eefe14c3f43fa7f7') in 0.006582 seconds 
+  Import took 0.012180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 323.335993 seconds.
+  path: Assets/test_VFX_MagicCircle/texture/MagicCircle_tex.png
+  artifactKey: Guid(92493f707223144b7be47cfebb2e582f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test_VFX_MagicCircle/texture/MagicCircle_tex.png using Guid(92493f707223144b7be47cfebb2e582f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3adbe34d1103002df133c25f464b6c76') in 0.022583 seconds 
+  Import took 0.029667 seconds .
+

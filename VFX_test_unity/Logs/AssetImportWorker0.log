@@ -1,0 +1,183 @@
+Unity Editor version:    2020.3.26f1 (7298b473bc1a)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 10.13.5 (Build 17F77)
+Darwin version:          17.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/hekk47/VFX_test/VFX_test_unity
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58780
+Successfully changed project path to: /Users/hekk47/VFX_test/VFX_test_unity
+/Users/hekk47/VFX_test/VFX_test_unity
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 79.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.26f1 (7298b473bc1a)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/hekk47/VFX_test/VFX_test_unity/Assets
+GfxDevice: creating device client; threaded=0
+2022-02-10 12:53:34.047 Unity[9617:410713] Color LCD preferred device: AMD Radeon Pro 560 (high power)
+2022-02-10 12:53:34.047 Unity[9617:410713] Metal devices available: 2
+2022-02-10 12:53:34.047 Unity[9617:410713] 0: AMD Radeon Pro 560 (high power)
+2022-02-10 12:53:34.047 Unity[9617:410713] 1: Intel(R) HD Graphics 630 (low power)
+2022-02-10 12:53:34.048 Unity[9617:410713] Using device AMD Radeon Pro 560 (high power)
+Initializing Metal device caps: AMD Radeon Pro 560
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56617
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000598 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 70.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.774 seconds
+Domain Reload Profiling:
+	ReloadAssembly (774ms)
+		BeginReloadAssembly (52ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (626ms)
+			LoadAssemblies (51ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (229ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (245ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (71ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (122ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006052 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 69.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.586 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1587ms)
+		BeginReloadAssembly (186ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (1321ms)
+			LoadAssemblies (94ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (505ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (109ms)
+			SetupLoadedEditorAssemblies (455ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (70ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (262ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.001855 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.003223 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Initializing Unity extensions:
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3348 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 252.8 MB.
+System memory in use after: 252.6 MB.
+
+Unloading 145 unused Assets to reduce memory usage. Loaded Objects now: 3822.
+Total: 4.199518 ms (FindLiveObjects: 0.323791 ms CreateObjectMapping: 0.210501 ms MarkObjects: 3.416923 ms  DeleteObjects: 0.246974 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/test_VFX_MagicCircle/test_VFX_MagicCircle.unity
+  artifactKey: Guid(3a5f26a2787a7417ea6c4942bc57b45b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test_VFX_MagicCircle/test_VFX_MagicCircle.unity using Guid(3a5f26a2787a7417ea6c4942bc57b45b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f135604365bad1a5d68a864c6616ca6') in 0.021658 seconds 
+  Import took 0.027269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005283 seconds.
+  path: Assets/test_VFX_MagicCircle/models/aura.blend
+  artifactKey: Guid(c2ed2d7f1fd084388a03d3e47e47c26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test_VFX_MagicCircle/models/aura.blend using Guid(c2ed2d7f1fd084388a03d3e47e47c26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '636b9ddcd8e6e2e1e20a04915306d587') in 0.498117 seconds 
+  Import took 0.505468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001881 seconds.
+  path: Assets/test_VFX_MagicCircle/VFX_MC.vfx
+  artifactKey: Guid(67691e4a4fc6648b298e3bc7ab488226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test_VFX_MagicCircle/VFX_MC.vfx using Guid(67691e4a4fc6648b298e3bc7ab488226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8155f884899fc42a0c2627bbe3916603') in 0.026796 seconds 
+  Import took 0.034027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002745 seconds.
+  path: Assets/test_VFX_MagicCircle/models/aura.blend1
+  artifactKey: Guid(2c463548c98704af9b4e4de4bfb3a4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test_VFX_MagicCircle/models/aura.blend1 using Guid(2c463548c98704af9b4e4de4bfb3a4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98de4d36ba70940a699489024f5da60b') in 0.023317 seconds 
+  Import took 0.029606 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
